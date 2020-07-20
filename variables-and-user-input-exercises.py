@@ -35,3 +35,21 @@
 # result = float(first_float) * int(second_int) 
 
 # print(result)
+
+# Question 3: 
+
+kilometers = input("enter number of kilometers, e.g 10 ")
+
+result_m = int(kilometers) * 1000
+result_cm = int(kilometers) * 100000
+
+print(f"{kilometers}km = {result_m}m")
+print(f"{kilometers}km = {result_cm}cm")
+
+kilometers = input("enter number of kilometers, e.g 10 ")
+
+result_m = float(kilometers) * 1000
+result_cm = float(kilometers) * 100000
+
+print(f"{kilometers}km = {result_m}m")
+print(f"{kilometers}km = {result_cm}cm")
