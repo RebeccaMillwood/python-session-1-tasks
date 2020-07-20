@@ -1,6 +1,5 @@
 # Question 1:
-
-input True or False
+# input True or False
 
 moths_in_house = False
 
