@@ -1,56 +1,57 @@
 # Question 1:
-# input True or False
 
-# moths_in_house = False
+input True or False
 
-# if moths_in_house:
-#     (print("Get the moths!"))
+moths_in_house = False
 
-# else:
-#     (print("No threats detected"))    
+if moths_in_house:
+    (print("Get the moths!"))
+
+else:
+    (print("No threats detected"))    
 
 # Question 2:
 # change True or False combos for different outputs
 
-# moths_in_house = False
-# mitch_is_home = True
+moths_in_house = False
+mitch_is_home = True
 
-# if moths_in_house and mitch_is_home:
-#     print("Hooman! Help me get the moths")
+if moths_in_house and mitch_is_home:
+    print("Hooman! Help me get the moths")
 
-# elif not moths_in_house and not mitch_is_home:  
-#     print("No threats detected") 
+elif not moths_in_house and not mitch_is_home:  
+    print("No threats detected") 
 
-# elif moths_in_house and not mitch_is_home:
-#     print("Meooooooooooow! Hisssss!")
+elif moths_in_house and not mitch_is_home:
+    print("Meooooooooooow! Hisssss!")
 
-# elif not moths_in_house and mitch_is_home:
-#     print("Climb on Mitch")        
+elif not moths_in_house and mitch_is_home:
+    print("Climb on Mitch")        
 
 # Question 3:
 # Change light colour to Red/Green/Amber, and change car detected True/False combos
 # for different outputs
 
-# light_colour = "Amber"
-# car_detected = True
+light_colour = "Amber"
+car_detected = True
 
-# if light_colour == "Red" and not car_detected:
-#     print("Do nothing")
+if light_colour == "Red" and not car_detected:
+    print("Do nothing")
 
-# elif light_colour == "Red" and car_detected:
-#     print("Flash!")
+elif light_colour == "Red" and car_detected:
+    print("Flash!")
 
-# elif light_colour == "Green" and not car_detected:
-#     print("Do nothing")
+elif light_colour == "Green" and not car_detected:
+    print("Do nothing")
 
-# elif light_colour == "Green" and car_detected:
-#     print("Do nothing")
+elif light_colour == "Green" and car_detected:
+    print("Do nothing")
 
-# elif light_colour == "Amber" and not car_detected:
-#     print("Do nothing")
+elif light_colour == "Amber" and not car_detected:
+    print("Do nothing")
 
-# elif light_colour == "Amber" and car_detected:
-#     print("Do nothing")
+elif light_colour == "Amber" and car_detected:
+    print("Do nothing")
 
 # Question 4:
 
