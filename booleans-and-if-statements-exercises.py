@@ -51,3 +51,15 @@
 
 # elif light_colour == "Amber" and car_detected:
 #     print("Do nothing")
+
+# Question 4:
+
+height = int (input ("Are you tall enough to ride the rollercoaster? What is your height in cms? "))
+
+height >= 120
+
+if height >= 120:
+    print("Hop on!")
+
+else:
+    print("Sorry, not today :(")
