@@ -3,7 +3,7 @@
 first_int = input("enter a number ")
 second_int = input("enter another number ")
 
-print(type(first_int))
+# print(type(first_int))
 
 result = int(first_int) + int(second_int)
 
